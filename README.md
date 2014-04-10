@@ -2,7 +2,7 @@
 
 Polynomial [approximation](http://en.wikipedia.org/wiki/Approximation_algorithm) of the [subset-sum problem](http://en.wikipedia.org/wiki/Subset_sum_problem).
 
-For the given `t` integer and `arr` set of integers, the algorithm computes the closest possible sum to `t` from a subset of `arr` (the result is equal or less that `t`).
+For the given `t` integer and `arr` set of integers, the algorithm computes the closest possible sum to `t` from a subset of `arr` (the result is equal or less that `t`). Example: `arr=[2, 3, 10]`, `t=14`, the closest sum is `13`, since `10+3=13`.
 
 The subset-sum problem is NP-hard, so computing the exact solution takes exponential time.
 
