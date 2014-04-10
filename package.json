@@ -1,0 +1,16 @@
+{
+  "name": "subset-sum",
+  "version": "0.0.0",
+  "description": "Polynomial approximation of the subset-sum problem",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:madbence/node-subset-sum-approx.git"
+  },
+  "author": "Bence Dányi <madbence@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madbence/node-subset-sum-approx/issues"
+  },
+  "homepage": "https://github.com/madbence/node-subset-sum-approx"
+}
