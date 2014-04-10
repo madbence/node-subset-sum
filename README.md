@@ -36,6 +36,10 @@ console.log(approx([2,3,4,5,10,11,13,16,22,28,30], 97)); // eps = 0, the solutio
 console.log(approx([2,3,4,5,10,11,13,16,22,28,30], 97, 0.5)); // eps = 0.5, the solution has error (94)
 ```
 
+## Benchmark
+
+See [`benchmark.js`](benchmark.js)
+
 ## License
 
 MIT
